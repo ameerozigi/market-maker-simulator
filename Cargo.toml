@@ -1,0 +1,5 @@
+[package]
+name = "market_maker_simulator"
+version = "0.1.0"
+edition = "2021"
+description = "Market maker bot simulator: spread quoting, inventory risk management, and PnL tracking"
